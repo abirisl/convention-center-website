@@ -1,0 +1,58 @@
+body{
+    background-color: #E5E5E5;
+     
+  }
+  p{
+    font-size: 16px;
+    font-weight: normal;
+  }
+  #btn-hero {
+    padding: 10px 20px;
+    background-color: #ffffff;
+    color: #3f87f5;
+    border-radius: 5px;
+    text-decoration: none;
+  }
+  
+  .carousel-img img{
+      width: 100%;
+      width: 50%;
+  }
+  .icon-hero{
+    background-color: #dfddec;
+    color: #5243C2;
+    padding: 5px;
+    border-radius: 50%;
+  }
+  .btn-hero-btn{
+    background-color:#f1c9e3 ;
+    color: #3F87F5;
+    padding: 10px 40px;
+    border-radius: 20px;
+    border: none;
+  
+  }
+  .bg-btn-hero{
+    background-color:rgb(236, 232, 235) ;
+    color: #3F87F5;
+    padding: 10px 40px;
+    border-radius: 20px;
+    border: none;
+  }
+  
+  .bg-package{
+    color: #E5E5E5;
+    padding: 40px 0px;
+    border-radius: 10px;
+  }
+  .bg-package .bg-icon{
+     color: whitesmoke;
+    background-color:  #4a7dc8;
+  }
+  
+  .main-footer img:hover{
+    transform: rotate(180deg);
+    transition: transform 2s ease-in-out;
+    
+  }
+  
